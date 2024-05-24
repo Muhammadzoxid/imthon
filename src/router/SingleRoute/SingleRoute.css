@@ -1,0 +1,19 @@
+.single {
+  margin-top: 180px;
+}
+
+.single-container {
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+}
+
+.single-product-info {
+  width: 300px;
+  padding: 10px 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.single-product-info-card p {
+  font-family: cursive;
+}

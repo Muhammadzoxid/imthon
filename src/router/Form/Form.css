@@ -1,0 +1,26 @@
+.Form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 120px auto;
+}
+
+.Form form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 450px;
+  height: 450px;
+  margin: 30px auto;
+  /* border: 2px solid #000; */
+}
+
+.Form form input {
+  padding: 5px 9px;
+  outline: none;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.Form form button {
+  padding: 5px 10px;
+}
